@@ -2012,9 +2012,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
-  inventoryPanel: {fileID: 0}
-  cashObject: {fileID: 0}
-  sandwichObject: {fileID: 0}
+  inventoryPanel: {fileID: 1459282662}
+  cashObject: {fileID: 2009004515}
+  sandwichObject: {fileID: 1171333786}
   fishSprite: {fileID: 21300000, guid: 8d65fcac53a130645ab82ad8d0d2e4ca, type: 3}
   gameManager: {fileID: 1422179440}
 --- !u!50 &1713406336
